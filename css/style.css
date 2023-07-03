@@ -78,6 +78,7 @@ nav li {
     border-radius: 8px;
     transition: .4s ease-in-out;
     list-style: none;
+    align-items: center;
 }
 
 nav li i {
